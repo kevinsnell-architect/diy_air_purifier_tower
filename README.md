@@ -10,8 +10,8 @@ This is a UK Version
     <th>Link</th>
   </tr>
   <tr>
-    <td>Arctic P14 Static Pressure 140mm PWM PST Fans (5 Pack)</td>
-    <td>£29.99</td>
+    <td>2 x Arctic P14 Static Pressure 140mm PWM PST Fans (5 Pack)</td>
+    <td>£59.98</td>
     <td>https://www.scan.co.uk/products/140mm-arctic-p14-pwm-pst-5-blade-static-pressure-fan-1700rpm-728cfm-fluid-dynamic-bearing-black-pack</td>
   </tr>
   <tr>
@@ -50,24 +50,6 @@ This is a UK Version
   
 </table>
 
-
-<table>
-  <tr>
-    <th>Description</th>
-    <th>Cost</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Arctic 140mm Fan Grill Protection</td>
-    <td>£9.96</td>
-    <td>https://www.scan.co.uk/products/arctic-140mm-fan-grill-protection</td>
-  </tr>
-  <tr>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-</table>
 
 
 Tools:
