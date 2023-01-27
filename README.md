@@ -20,11 +20,6 @@ This is a UK Version
     <td>https://www.amazon.co.uk/Filtrete-Healthy-Ultimate-Allergen-Reduction/dp/B07FNZN3DZ?th=1</td>
   </tr>
   <tr>
-    <td>Cathedral A1 Foam Board - Black (Pack of 10)</td>
-    <td>£37.93</td>
-    <td>https://www.amazon.co.uk/TERF%C2%AE-Black-Washer-Thickness-Washers/dp/B0957GVDCD</td>
-  </tr>
-  <tr>
     <td>2 x Cathedral A1 Foam Board - Black (Pack of 10)</td>
     <td>£16.81</td>
     <td>https://www.jacksonsart.com/crescent-art-foam-board-black-core-and-black-paper-liners-5mm-a1</td>
