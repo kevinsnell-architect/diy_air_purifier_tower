@@ -1,8 +1,4 @@
-<b>DIY AIR PURIFIER</b>
-
-Credit to https://github.com/robwiss/diy_air_purifier for the original design. 
-
-https://www.youtube.com/watch?v=Ird0-orsSGM
+<b>DIY AIR TOWER PURIFIER</b>
 
 This is a UK Version
 
