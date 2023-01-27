@@ -15,9 +15,9 @@ This is a UK Version
     <td>https://www.scan.co.uk/products/140mm-arctic-p14-pwm-pst-5-blade-static-pressure-fan-1700rpm-728cfm-fluid-dynamic-bearing-black-pack</td>
   </tr>
   <tr>
-    <td>4 PACK SQAIR HEPA E11 FILTERS</td>
-    <td>£72.00</td>
-    <td>x</td>
+    <td>2 x Filtrete 20x30x1S</td>
+    <td>£36.75</td>
+    <td>https://www.amazon.co.uk/Filtrete-Healthy-Ultimate-Allergen-Reduction/dp/B07FNZN3DZ?th=1</td>
   </tr>
   <tr>
     <td>20 x 45mm M4 bolts</td>
